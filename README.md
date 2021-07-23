@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on Golang backend develop or machine learning 
 - 🤔 I’m looking for help with machine learning
 - 💬 Ask me about books、movies
-- 📫 How to reach me: 
+- 📫 How to reach me: i@denganliang.com
+![](https://komarev.com/ghpvc/?username=denganliang&label=PROFILE+VIEWS)
 
 
 
